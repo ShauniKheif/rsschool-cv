@@ -6,7 +6,7 @@ Minsk, Belarus
 
 ## Contacts
 
-email: amatakirie@gmail.com
+email: <amatakirie@gmail.com>  
 tel: +375259813614
 
 ---
