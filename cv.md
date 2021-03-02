@@ -1,25 +1,25 @@
-Valeria Marshalova
+# Valeria Marshalova
 
 Minsk, Belarus
 
+---
 
-
-Contacts
+## Contacts
 
 email: amatakirie@gmail.com
 tel: +375259813614
 
+---
 
-
-About myself
+## About myself
 
 I am open for communication and know how to work in a team. In my work I always think about the result and try to be  creative.  
 I’m most interested in working with tasks that motivate continuous development.  
 Of great importance are: opportunity for professional growth and development, friendly team, comfortable working conditions.
 
+---
 
-
-Professional Skills 
+## Professional Skills 
 
 - HTML
 - CSS
@@ -29,19 +29,19 @@ Professional Skills
 - Touch typing skill
 - Adobe Photoshop
 
+---
 
+## Code examples
 
-Code examples
+---
 
-
-
-Work experience    
+## Work experience    
 LLC "Prestige-systems"  
 Programmer
 
+---
 
-
-Education
+## Education
 
 - Belarusian State Economic University  
 2013 - 2020  
@@ -51,8 +51,8 @@ Major:   World  Economy (specialization: Management of Foreign Economic Activity
 07/2020 - 09/2020  
 Python basics
 
+---
 
-
-Languages
+## Languages
 
 English - Intermediate(B1)
