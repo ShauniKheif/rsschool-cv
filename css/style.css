@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=RocknRoll+One&display=swap');
+
+html {
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: large;
+    font-weight: 500;
+    color: rgb(85,62,44);
+    background-color:rgb(255, 255, 255);
+    
+}
+
+.background {
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 3%;
+    background-color: rgb(245,234,217);
+}
+
+.header {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    color: rgb(85,62,44);
+}
+
+header img {
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 50%;
+    border: 10px double rgb(218,182,156);
+}
+
+header div {
+    padding: 30px 0 0 30px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    height: auto;
+}
+
+.left {
+    margin-left: 1%;
+    background-color:rgb(159,123,98);
+    color: rgb(65, 47, 33);
+    float: left;
+    width: 25%;
+    text-align: left;
+    overflow: auto;
+    height: 900px;
+}
+
+.left a {
+    color: rgb(65, 47, 33);
+}
+
+.left h2 {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.center {
+    padding-right: 25%;
+    margin-right: 1%;
+    margin-left: 25%;
+    text-align: center;
+    background-color:rgb(238,180,115);
+    overflow: auto;
+    height: 900px;
+}
+.center p {
+    margin-bottom: 30px;
+}
+
+i {
+    text-decoration: underline;
+    font-weight: 100;
+}
+.footer div {
+    display: flex;
+    width: 40%;
+    margin: 0 auto;
+    justify-content:space-around;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: rgb(241,232,209);
+}
+
+h2, h3 {
+    font-weight: 700;
+    line-height: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 45px;
+}
+
+main h3 {
+    text-decoration: underline;
+}
+
+header hr {
+    border-color: rgb(85,62,44);
+    background-color:rgb(85,62,44);
+    width: 150px;
+    float: left;
+    margin-right: 100%;
+}
+
+.left hr, 
+.center hr {
+    border: 1px solid rgb(236,221,198);
+    background-color: rgb(236,221,198);
+    width: 150px;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(146, 100, 64);
+}
+
+footer a{
+    opacity: 75%;
+}
+
+a:hover {
+    text-decoration: underline;
+    opacity: 100%;
+    color: gold;
+}
