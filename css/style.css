@@ -78,6 +78,8 @@ i {
     font-weight: 100;
 }
 .footer div {
+    padding-top: 50px;
+    padding-bottom: 50px;
     display: flex;
     width: 40%;
     margin: 0 auto;
